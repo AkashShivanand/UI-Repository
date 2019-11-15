@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gilroy-Bold",
+              "name": "Roboto-Regular",
               "size": 12
             }
           },
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 12,
-    "width": 41,
-    "x": 278,
+    "width": 37,
+    "x": 280,
     "y": 43
   },
-  "glyphBounds": "{{0, 3}, {40, 10}}",
+  "glyphBounds": "{{0, 1}, {37, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,7 +131,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gilroy-Bold",
+            "name": "Roboto-Regular",
             "size": 12
           }
         },
